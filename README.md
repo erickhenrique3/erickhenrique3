@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full Stack** · PHP • Laravel • Vue.js • TypeScript · Paraná, Brasil
 
-Programo desde os 15 anos e há mais de 2 anos e meio trabalho na **Greenn**, construindo produtos usados por milhares de clientes: um CRM SaaS multi-tenant (e-mail marketing, páginas e automações), painel do produtor, ERP interno, área de membros e uma extensão de Chrome que leva o CRM para o WhatsApp Web.
+Comecei aos 14 anos na **Greenn School**, curso de 6 meses que a Greenn oferece para formar desenvolvedores, e fui contratado aos 15. Há mais de 2 anos e meio trabalho na **Greenn**, construindo produtos usados por milhares de clientes: um CRM SaaS multi-tenant (e-mail marketing, páginas e automações), painel do produtor, ERP interno, área de membros e uma extensão de Chrome que leva o CRM para o WhatsApp Web.
 
 Meu foco é **back-end, arquitetura de software e sistemas distribuídos**, e gosto de levar **IA para dentro de produtos reais**.
 
@@ -47,4 +47,4 @@ Meu foco é **back-end, arquitetura de software e sistemas distribuídos**, e go
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/erick-henrique-269108340/)
 
-Aberto a oportunidades como **Desenvolvedor Full Stack / Back-end Pleno** (remoto ou híbrido).
+Gosto de trocar ideias sobre back-end, arquitetura de software e IA aplicada.
